@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1098 974" style="enable-background:new 0 0 1098 974;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;}
+	.st1{fill:none;}
+	.st2{enable-background:new    ;}
+	.st3{font-family:'ArialMT';}
+	.st4{font-size:12px;}
+	.st5{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st6{stroke:#000000;stroke-miterlimit:10;}
+	.st7{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#000000;stroke-dasharray:3,3;}
+	.st9{fill:none;stroke:#FF0000;stroke-miterlimit:10;}
+	.st10{fill:#FF0000;stroke:#FF0000;stroke-miterlimit:10;}
+	.st11{stroke:#000000;}
+	.st12{fill:none;stroke:#0000FF;stroke-miterlimit:10;}
+	.st13{fill:#0000FF;stroke:#0000FF;stroke-miterlimit:10;}
+	.st14{font-size:10px;}
+</style>
+<g>
+	<rect x="97.5" y="90.8" pointer-events="all" class="st0" width="120" height="60"/>
+	<rect x="117.5" y="105.8" pointer-events="all" class="st1" width="80" height="30"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 118.5611 121.05)" class="st2"><tspan x="0" y="0" class="st3 st4">FREQUENCY_ </tspan><tspan x="18.3" y="14.4" class="st3 st4">DIVIDER</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st5" d="M527.5,152.5h190l184.9,0.5"/>
+	<path pointer-events="all" class="st6" d="M907.7,153.1l-7,3.5l1.8-3.5l-1.7-3.5L907.7,153.1z"/>
+	<rect x="387.5" y="117.5" pointer-events="all" class="st0" width="140" height="140"/>
+	<rect x="427.5" y="177.5" pointer-events="all" class="st1" width="40" height="20"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 434.167 191.5)" class="st3 st4">RAM</text>
+	</g>
+	<path pointer-events="stroke" class="st5" d="M1067.5,210.8l20,0v268l-193.6,0"/>
+	<path pointer-events="all" class="st6" d="M888.6,478.8l7-3.5l-1.8,3.5l1.8,3.5L888.6,478.8z"/>
+	<rect x="907.5" y="75.8" pointer-events="all" class="st0" width="160" height="180"/>
+	<rect x="932.5" y="155.8" pointer-events="all" class="st1" width="110" height="20"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 941.1611 169.5)" class="st3 st4">DECISION_UNIT</text>
+	</g>
+	<path pointer-events="stroke" class="st5" d="M457.5,417.5h20V263.9"/>
+	<path pointer-events="all" class="st6" d="M477.5,258.6l3.5,7l-3.5-1.8l-3.5,1.8L477.5,258.6z"/>
+	<path pointer-events="stroke" class="st5" d="M372.5,357.5v-20l0.1-13.6"/>
+	<path pointer-events="all" class="st6" d="M372.6,318.6l3.5,7l-3.5-1.8l-3.5,1.7L372.6,318.6z"/>
+	<path pointer-events="stroke" class="st5" d="M415,357.5l0-33.6"/>
+	<path pointer-events="all" class="st6" d="M415,318.6l3.5,7l-3.5-1.8l-3.5,1.8L415,318.6z"/>
+	<rect x="287.5" y="357.5" pointer-events="all" class="st0" width="170" height="120"/>
+	<rect x="312.5" y="407.5" pointer-events="all" class="st1" width="120" height="20"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 318.8252 421.5)" class="st3 st4">COUNTER_MOD13</text>
+	</g>
+	<path pointer-events="stroke" class="st5" d="M117.5,517.5v-90h43.6"/>
+	<path pointer-events="all" class="st6" d="M166.4,427.5l-7,3.5l1.8-3.5l-1.8-3.5L166.4,427.5z"/>
+	<rect x="82.5" y="517.5" pointer-events="all" class="st0" width="140" height="110"/>
+	<rect x="77.5" y="557.5" pointer-events="all" class="st1" width="150" height="30"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 102.8805 573.8311)" class="st2"><tspan x="0" y="0" class="st3 st4">WEIGHT_DOORS_</tspan><tspan x="38.7" y="14.4" class="st3 st4">UNIT</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st5" d="M486.3,867.5l0.1,35l0.1,28.6"/>
+	<path pointer-events="all" class="st6" d="M486.5,936.4l-3.5-7l3.5,1.7l3.5-1.8L486.5,936.4z"/>
+	<path pointer-events="stroke" class="st5" d="M563.8,867.5l0,60l-0.1,3.6"/>
+	<path pointer-events="all" class="st6" d="M563.5,936.4l-3.3-7.1l3.5,1.8l3.5-1.6L563.5,936.4z"/>
+	<rect x="447.5" y="782.5" pointer-events="all" class="st0" width="155" height="85"/>
+	<rect x="505" y="815" pointer-events="all" class="st1" width="40" height="20"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 512.832 828.5)" class="st3 st4">BCD</text>
+	</g>
+	<path pointer-events="stroke" class="st5" d="M775,502.5l0.1,20H513.5V263.9"/>
+	<path pointer-events="all" class="st6" d="M513.5,258.6l3.5,7l-3.5-1.8l-3.5,1.8L513.5,258.6z"/>
+	<path pointer-events="stroke" class="st5" d="M812.5,502.5v45H330.1l-0.1-63.6"/>
+	<path pointer-events="all" class="st6" d="M330,478.6l3.5,7l-3.5-1.7l-3.5,1.8L330,478.6z"/>
+	<path pointer-events="stroke" class="st5" d="M850,502.5l0.1,95h-435L415,483.9"/>
+	<path pointer-events="all" class="st6" d="M415,478.6l3.5,7l-3.5-1.8l-3.5,1.8L415,478.6z"/>
+	<rect x="737.5" y="407.5" pointer-events="all" class="st0" width="150" height="95"/>
+	<rect x="762.5" y="445" pointer-events="all" class="st1" width="100" height="20"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 770.4971 458.5)" class="st3 st4">COMPARATOR</text>
+	</g>
+	<path pointer-events="stroke" class="st5" d="M992.5,805v82.5H7.5v-600h322.6l-0.1,63.6"/>
+	<path pointer-events="all" class="st6" d="M330,356.4l-3.5-7l3.5,1.8l3.5-1.7L330,356.4z"/>
+	<path pointer-events="all" class="st7" d="M942.5,745l23,60h54l23-60H942.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 965.8193 778.5)" class="st3 st4">MUX_2_1</text>
+	</g>
+	<path pointer-events="stroke" class="st5" d="M932.5,677.5h92v60.1"/>
+	<path pointer-events="all" class="st6" d="M1024.5,742.9l-3.5-7l3.5,1.8l3.5-1.8L1024.5,742.9z"/>
+	<rect x="812.5" y="647.5" pointer-events="all" class="st0" width="120" height="60"/>
+	<rect x="850" y="667.5" pointer-events="all" class="st1" width="40" height="20"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 840.166 681.5)" class="st2"><tspan x="0" y="0" class="st3 st4">COUNTER_</tspan><tspan x="0" y="14.4" class="st3 st4">MOD4</tspan></text>
+	</g>
+	<rect x="637.5" y="207.5" pointer-events="all" class="st8" width="250" height="180"/>
+	<path pointer-events="stroke" class="st5" d="M812.5,277.5h23v25l-0.4,18.6"/>
+	<path pointer-events="all" class="st6" d="M835,326.4l-3.4-7.1l3.5,1.8l3.5-1.7L835,326.4z"/>
+	<path pointer-events="stroke" class="st5" d="M607.5,327.5v5h60v-115h115v13.6"/>
+	<path pointer-events="all" class="st6" d="M782.5,236.4l-3.5-7l3.5,1.8l3.5-1.8L782.5,236.4z"/>
+	<rect x="752.5" y="237.5" pointer-events="all" class="st0" width="120" height="40"/>
+	<rect x="795" y="250" pointer-events="all" class="st1" width="35" height="20"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 766.1485 256.3299)" class="st2"><tspan x="0" y="0" class="st3 st4">COUNTER_MOD4</tspan><tspan x="24.3" y="14.4" class="st3 st4">_UDUNIT</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st5" d="M857.5,357.5h190v-93.6"/>
+	<path pointer-events="all" class="st6" d="M1047.5,258.6l3.5,7l-3.5-1.8l-3.5,1.8L1047.5,258.6z"/>
+	<path pointer-events="stroke" class="st5" d="M857.5,347.5h-90v-10h236v-74.4"/>
+	<path pointer-events="all" class="st6" d="M1003.5,257.9l3.5,7l-3.5-1.8l-3.5,1.8L1003.5,257.9z"/>
+	<path pointer-events="stroke" class="st5" d="M707.5,427.5v-90h53.6"/>
+	<path pointer-events="all" class="st6" d="M766.4,337.5l-7,3.5l1.8-3.5l-1.8-3.5L766.4,337.5z"/>
+	<rect x="767.5" y="327.5" pointer-events="all" class="st0" width="90" height="40"/>
+	<rect x="787.5" y="337.5" pointer-events="all" class="st1" width="40" height="20"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 783 348)" class="st2"><tspan x="0" y="0" class="st3 st4">UP_DOWN_</tspan><tspan x="0" y="14.4" class="st3 st4">MANAGER</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st5" d="M657.3,523.9l0,213.6H413.9"/>
+	<path pointer-events="all" class="st6" d="M408.6,737.5l7-3.5l-1.8,3.5l1.8,3.5L408.6,737.5z"/>
+	<rect x="287.5" y="707.5" pointer-events="all" class="st0" width="120" height="60"/>
+	<rect x="327.5" y="732.5" pointer-events="all" class="st1" width="40" height="20"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 322.8262 746.5)" class="st3 st4">LOCKER</text>
+	</g>
+	<path pointer-events="stroke" class="st5" d="M197.5,417.5h83.6"/>
+	<path pointer-events="all" class="st6" d="M286.4,417.5l-7,3.5l1.8-3.5l-1.8-3.5L286.4,417.5z"/>
+	<path pointer-events="all" class="st7" d="M167.5,397.5c20,0,30,6.7,30,20s-10,20-30,20V397.5z"/>
+	<path pointer-events="none" class="st7" d="M592.5,677.5l-35-20l35-20V677.5z"/>
+	<ellipse pointer-events="none" class="st0" cx="547.5" cy="657.5" rx="10" ry="10"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 559.835 691.5)" class="st3 st4">NOT</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 169.832 453.5)" class="st3 st4">AND</text>
+	</g>
+	<path pointer-events="none" class="st5" d="M17.5,105.5l73.6,0.3"/>
+	<path pointer-events="none" class="st6" d="M96.4,105.8l-7,3.5l1.8-3.5l-1.7-3.5L96.4,105.8z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 16.1543 99.5)" class="st3 st4">CLK_BOARD</text>
+	</g>
+	<path pointer-events="none" class="st9" d="M17.5,132.5h73.6"/>
+	<path pointer-events="none" class="st10" d="M96.4,132.5l-7,3.5l1.8-3.5l-1.8-3.5L96.4,132.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 42.4961 149.5)" class="st3 st4">RESET</text>
+	</g>
+	<path pointer-events="none" class="st5" d="M287.5,187.5h93.6"/>
+	<path pointer-events="none" class="st6" d="M386.4,187.5l-7,3.5l1.8-3.5l-1.8-3.5L386.4,187.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 292.0042 169.4999)" class="st2"><tspan x="0" y="0" class="st3 st4">INPUT_FLOOR</tspan><tspan x="23.7" y="14.4" class="st3 st4">(4 bits)</tspan></text>
+	</g>
+	<path pointer-events="none" class="st5" d="M287.5,237.5h60c6.7,0,13.3,0,20,0h13.6"/>
+	<path pointer-events="none" class="st6" d="M386.4,237.5l-7,3.5l1.8-3.5l-1.8-3.5L386.4,237.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 286.88 227.0745)" class="st3 st4">WRITE_ENABLE</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)rotate(-90 457 302)">
+		<text transform="matrix(1 0 0 1 411 303)" class="st2"><tspan x="0" y="0" class="st3 st4">CURRENT_</tspan><tspan x="0" y="14.4" class="st3 st4">FLOOR</tspan></text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 683.4941 516.5)" class="st3 st4">E_TEMP</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)rotate(90 437 81.16499999999974)">
+		<text transform="matrix(1 0 0 1 417.4961 84.5009)" class="st3 st4">RESET</text>
+	</g>
+	<path pointer-events="none" class="st9" d="M417.5,47.5V111"/>
+	<path pointer-events="none" class="st10" d="M417.5,116.3l-3.5-7l3.5,1.8l3.5-1.8L417.5,116.3z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 590.2705 131.5)" class="st3 st4">MEMORY_CONTENT (12 bits)</text>
+	</g>
+	<path pointer-events="none" class="st9" d="M927.5,7.5V71"/>
+	<path pointer-events="none" class="st10" d="M927.5,76.3l-3.5-7l3.5,1.8l3.5-1.8L927.5,76.3z"/>
+	<g transform="translate(-0.5 -0.5)rotate(90 947 41.164999999999736)">
+		<text transform="matrix(1 0 0 1 927.4961 44.5009)" class="st3 st4">RESET</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 955.2101 305.8)" class="st2"><tspan x="0" y="0" class="st3 st4">UP_</tspan><tspan x="0" y="14.4" class="st3 st4">FRONT</tspan></text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 995.166 378.5)" class="st2"><tspan x="0" y="0" class="st3 st4">DOWN_</tspan><tspan x="0" y="14.4" class="st3 st4">FRONT</tspan></text>
+	</g>
+	<path pointer-events="none" class="st5" d="M477.5,297.5h140"/>
+	<path pointer-events="none" class="st5" d="M617.5,297.5v-110"/>
+	<path pointer-events="none" class="st5" d="M617.5,187.5h210"/>
+	<path pointer-events="none" class="st5" d="M827.5,187.5l74.6-0.4"/>
+	<path pointer-events="none" class="st6" d="M907.3,187.1l-7,3.5l1.7-3.5l-1.8-3.5L907.3,187.1z"/>
+	<ellipse pointer-events="none" class="st11" cx="477.5" cy="297.3" rx="3.8" ry="3.8"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 962.7188 471.5)" class="st3 st4">WANTED_FLOOR</text>
+	</g>
+	<path pointer-events="none" class="st5" d="M597.5,397.5v34l133.6-0.2"/>
+	<path pointer-events="none" class="st6" d="M736.4,431.3l-7,3.5l1.7-3.5l-1.8-3.5L736.4,431.3z"/>
+	<path pointer-events="none" class="st5" d="M477.5,380h120"/>
+	<path pointer-events="none" class="st5" d="M597.5,400v-20"/>
+	<ellipse pointer-events="none" class="st11" cx="477.5" cy="380" rx="3.8" ry="3.8"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 759.1592 571.5)" class="st3 st4">L_TEMP</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)rotate(90 867 557)">
+		<text transform="matrix(1 0 0 1 842.8291 560.5)" class="st3 st4">G_TEMP</text>
+	</g>
+	<path pointer-events="none" class="st12" d="M217.5,120.8l35,0l28.6-0.2"/>
+	<path pointer-events="none" class="st13" d="M286.4,120.5l-7,3.6l1.7-3.5l-1.8-3.5L286.4,120.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 231.4902 106.5)" class="st3 st4">CLK_INTER</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 676.2775 243)" class="st3 st4">CLK_INTER</text>
+	</g>
+	<path pointer-events="none" class="st12" d="M682.5,250.3l40,0l23.6-0.3"/>
+	<path pointer-events="none" class="st13" d="M751.4,250l-7,3.6l1.7-3.5l-1.8-3.5L751.4,250z"/>
+	<path pointer-events="none" class="st5" d="M657.5,518.8V368v-60.3v-40.2h88.6"/>
+	<path pointer-events="none" class="st6" d="M751.4,267.5l-7,3.5l1.8-3.5l-1.8-3.5L751.4,267.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 588.5 361.5)" class="st3 st4">OR</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 725.2098 301.5002)" class="st2"><tspan x="0" y="0" class="st3 st4">FINISHED_</tspan><tspan x="0" y="14.4" class="st3 st4">COUNT4_UDUNIT</tspan></text>
+	</g>
+	<ellipse pointer-events="none" class="st11" cx="707.5" cy="431.3" rx="3.8" ry="3.8"/>
+	<path pointer-events="none" class="st7" d="M567.5,307.5c26.7,0,40,6.7,40,20s-13.3,20-40,20C580.8,334.2,580.8,320.8,567.5,307.5z
+		"/>
+	<path pointer-events="none" class="st9" d="M532.5,312.5h33.6"/>
+	<path pointer-events="none" class="st10" d="M571.4,312.5l-7,3.5l1.8-3.5l-1.8-3.5L571.4,312.5z"/>
+	<path pointer-events="none" class="st5" d="M550,542.5l-2.5-205h20.6"/>
+	<path pointer-events="none" class="st6" d="M573.4,337.5l-7,3.5l1.8-3.5l-1.8-3.5L573.4,337.5z"/>
+	<ellipse pointer-events="none" class="st11" cx="550" cy="546.1" rx="3.6" ry="3.6"/>
+	<path pointer-events="none" class="st5" d="M527.5,597.5h10H527.5v-265v-5h43.6"/>
+	<path pointer-events="none" class="st6" d="M576.4,327.5l-7,3.5l1.8-3.5l-1.8-3.5L576.4,327.5z"/>
+	<ellipse pointer-events="none" class="st11" cx="657.5" cy="522.5" rx="3.8" ry="3.8"/>
+	<path pointer-events="none" class="st5" d="M117.5,727.5v-30c0-6.7,0-13.3,0-20v-43.6"/>
+	<path pointer-events="none" class="st6" d="M117.5,628.6l3.5,7l-3.5-1.8l-3.5,1.8L117.5,628.6z"/>
+	<g transform="translate(-0.5 -0.5)rotate(90 142 677)">
+		<text transform="matrix(1 0 0 1 102.8232 680.5)" class="st3 st4">PERSON_IN_DOOR</text>
+	</g>
+	<path pointer-events="none" class="st5" d="M196.5,727.5v-20c0-6.7,0.1-13.3,0.2-20l1.3-53.6"/>
+	<path pointer-events="none" class="st6" d="M198.1,628.6l3.3,7.1l-3.5-1.8l-3.5,1.7L198.1,628.6z"/>
+	<g transform="translate(-0.5 -0.5)rotate(90 227 692)">
+		<text transform="matrix(1 0 0 1 182.8281 695.5)" class="st2"><tspan x="0" y="0" class="st3 st4">MAX_WEIGHT_</tspan><tspan x="0" y="14.4" class="st3 st4">REACHED</tspan></text>
+	</g>
+	<g transform="translate(-0.5 -0.5)rotate(-90 97 467)">
+		<text transform="matrix(1 0 0 1 57.043 471.5)" class="st3 st4">START_OK_WDU</text>
+	</g>
+	<path pointer-events="none" class="st5" d="M82.5,567.5H23.9"/>
+	<path pointer-events="none" class="st6" d="M18.6,567.5l7-3.5l-1.8,3.5l1.8,3.5L18.6,567.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 28.5 551.5)" class="st3 st4">BUZZER</text>
+	</g>
+	<path pointer-events="none" class="st5" d="M612.5,527.5v130h-13.6"/>
+	<path pointer-events="none" class="st6" d="M593.6,657.5l7-3.5l-1.8,3.5l1.8,3.5L593.6,657.5z"/>
+	<ellipse pointer-events="none" class="st11" cx="612.5" cy="523.9" rx="3.8" ry="3.8"/>
+	<path pointer-events="none" class="st5" d="M537.5,657.5h-270v-330h-160v80h53.6"/>
+	<path pointer-events="none" class="st6" d="M166.4,407.5l-7,3.5l1.8-3.5l-1.8-3.5L166.4,407.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 487.4961 651.5)" class="st3 st4">NOT_E</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 208.8223 411.5)" class="st3 st4">ENABLE</text>
+	</g>
+	<path pointer-events="none" class="st12" d="M312.5,837.5v-12.4v-51.2"/>
+	<path pointer-events="none" class="st13" d="M312.5,768.6l3.5,7l-3.5-1.8l-3.5,1.8L312.5,768.6z"/>
+	<path pointer-events="none" class="st5" d="M301.5,706.5V483.9"/>
+	<path pointer-events="none" class="st6" d="M301.5,478.6l3.5,7l-3.5-1.8l-3.5,1.8L301.5,478.6z"/>
+	<g transform="translate(-0.5 -0.5)rotate(90 317 597)">
+		<text transform="matrix(1 0 0 1 293.8311 600.5)" class="st3 st4">FREEZE</text>
+	</g>
+	<path pointer-events="none" class="st9" d="M862.5,752.5l-0.2-38.6"/>
+	<path pointer-events="none" class="st10" d="M862.3,708.6l3.5,7l-3.5-1.7l-3.5,1.8L862.3,708.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1024.1631 758.5)" class="st3 st4">1</text>
+	</g>
+	<path pointer-events="none" class="st12" d="M982.5,702.5v30l-0.1,6.1"/>
+	<path pointer-events="none" class="st13" d="M982.3,743.9l-3.4-7.1l3.5,1.8l3.5-1.7L982.3,743.9z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 979.1631 758.5)" class="st3 st4">0</text>
+	</g>
+	<path pointer-events="none" class="st5" d="M742.5,775.5l205.1-0.5"/>
+	<path pointer-events="none" class="st6" d="M952.9,775l-7,3.5l1.7-3.5l-1.8-3.5L952.9,775z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 893.8213 793.5)" class="st2"><tspan x="0" y="0" class="st3 st4">SPEED_</tspan><tspan x="0" y="14.4" class="st3 st4">SELECT</tspan></text>
+	</g>
+	<path pointer-events="none" class="st12" d="M832.5,750v-21.5l0.2-14.6"/>
+	<path pointer-events="none" class="st13" d="M832.7,708.6l3.4,7l-3.5-1.8l-3.5,1.7L832.7,708.6z"/>
+	<rect x="772.5" y="612.5" pointer-events="none" class="st8" width="300" height="250"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 897.8203 911.5)" class="st3 st4">CLK_FLOORS</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 405.8271 301.5)" class="st2"><tspan x="0" y="0" class="st3 st4">UP_</tspan><tspan x="0" y="14.4" class="st3 st4">LED</tspan></text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 340.7228 298)" class="st2"><tspan x="0" y="0" class="st3 st4">DOWN_</tspan><tspan x="0" y="14.4" class="st3 st4">LED</tspan></text>
+	</g>
+	<path pointer-events="none" class="st5" d="M478.5,417.5l0.1,360.3"/>
+	<path pointer-events="none" class="st6" d="M478.6,783l-3.5-7l3.5,1.8l3.5-1.8L478.6,783z"/>
+	<ellipse pointer-events="none" class="st11" cx="478.5" cy="417.5" rx="3.8" ry="3.8"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 414.8232 961.5)" class="st3 st4">ANODE_MSB (7 bits)</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 546.4844 961.5)" class="st3 st4">ANODE_LSB (7 bits)</text>
+	</g>
+	<ellipse pointer-events="none" class="st11" cx="527.5" cy="596.9" rx="3.8" ry="3.8"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 977.832 656.5)" class="st2"><tspan x="0" y="0" class="st3 st4">FINISHED_</tspan><tspan x="0" y="14.4" class="st3 st4">COUNT4</tspan></text>
+	</g>
+	<path pointer-events="none" class="st9" d="M371.8,547.5l-0.2,30c0,6.7,0,6.7,0,0l0.1-20.1c0-6.7,0.1-13.3,0.1-20v-53.5"/>
+	<path pointer-events="none" class="st10" d="M371.8,478.6l3.5,7l-3.5-1.8l-3.5,1.8L371.8,478.6z"/>
+</g>
+<a xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems"  transform="translate(0,-5)">
+	<text transform="matrix(1 0 0 1 467.6006 974.5)" class="st1 st3 st14">Viewer does not support full SVG 1.1</text>
+</a>
+</svg>
